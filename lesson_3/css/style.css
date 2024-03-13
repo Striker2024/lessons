@@ -1,0 +1,40 @@
+@import url(reset.css);
+header{
+    color: blue;
+}
+a {
+    color: blue;
+}
+
+.title{
+    color: red;
+}
+
+.sub-title{
+    color: blueviolet;
+}
+
+div.text {
+    color: green;
+}
+
+.historic-text {
+    color: aqua;
+}
+
+.historic-text img{
+    height: 1000px;
+}
+
+h3 {
+    color: brown;
+}
+
+.pictures img{
+    width: 1300px;
+}
+
+[class*="list"] {
+    color: blueviolet;
+}
+
